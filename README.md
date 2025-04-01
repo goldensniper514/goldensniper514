@@ -10,7 +10,7 @@
     </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack,%20Blockchain%20Developer;7+%2B%20years%20of%20engineering;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack,%20Blockchain%20Developer;5+%2B%20years%20of%20engineering;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
 </p>
 
 ## 🧑 About me:
